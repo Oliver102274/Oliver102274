@@ -71,14 +71,6 @@ I'm continuing to develop my skills in data analysis, automation, and AI, with a
 
 ---
 
-## 📈 GitHub at a Glance
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oliver102274&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver102274&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🎯 Career Goals
 
 I'm working toward a career in **Data Science and Artificial Intelligence**, with a strong interest in data analytics, business applications of data, and opportunities to gain real-world experience through internships and collaborative projects.
